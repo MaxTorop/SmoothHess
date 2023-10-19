@@ -1,9 +1,7 @@
 # SmoothHess: ReLU Network Feature Interactions via Stein's Lemma (NeurIPS 2023)
 By Max Torop*, Aria Masoomi*, Davin Hill, Kivanc Kose, Stratis Ioannidis and Jennifer Dy
 
-### Code written in Python 3.8.3
-
-### The following packages are used in the code
+### Code written in Python 3.8.3 using the following packages
 - torch 1.13.1+cu117
 - torchvision 0.11.1
 - matplotlib 3.7.1
