@@ -1,4 +1,4 @@
-## Anonymous code for NeurIPS 2023 submission: "SmoothHess: ReLU Network Feature Interactions via Stein's Lemma"
+Code for our NeurIPS 2023 paper "SmoothHess: ReLU Network Feature Interactions via Stein's Lemma"
 
 ### Code written in Python 3.8.3
 
