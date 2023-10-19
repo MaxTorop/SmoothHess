@@ -1,5 +1,5 @@
-# SmoothHess: ReLU Network Feature Interactions via Stein's Lemma
-## NeurIPS 2023 
+# SmoothHess: ReLU Network Feature Interactions via Stein's Lemma (NeurIPS 2023)
+By Max Torop*, Aria Masoomi*, Davin Hill, Kivanc Kose, Stratis Ioannidis and Jennifer Dy
 
 ### Code written in Python 3.8.3
 
