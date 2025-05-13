@@ -15,5 +15,13 @@ By Max Torop*, Aria Masoomi*, Davin Hill, Kivanc Kose, Stratis Ioannidis and Jen
 - PMSEExample.ipynb: Example for Perturbation Mean-Squared Error Experiment
 - AdvAttackExample.ipynb: Example for Adversarial Attacks Experiment 
 
+### Citation
 
-
+@article{torop2023smoothhess,
+  title={SmoothHess: ReLU network feature interactions via stein's lemma},
+  author={Torop, Max and Masoomi, Aria and Hill, Davin and Kose, Kivanc and Ioannidis, Stratis and Dy, Jennifer},
+  journal={Advances in Neural Information Processing Systems},
+  volume={36},
+  pages={50697--50729},
+  year={2023}
+}
