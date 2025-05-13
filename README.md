@@ -17,6 +17,7 @@ By Max Torop*, Aria Masoomi*, Davin Hill, Kivanc Kose, Stratis Ioannidis and Jen
 
 ### Citation
 
+```bibtex
 @article{torop2023smoothhess,
   title={SmoothHess: ReLU network feature interactions via stein's lemma},
   author={Torop, Max and Masoomi, Aria and Hill, Davin and Kose, Kivanc and Ioannidis, Stratis and Dy, Jennifer},
