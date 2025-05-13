@@ -1,5 +1,11 @@
-# SmoothHess (NeurIPS 2023)
-By Max Torop*, Aria Masoomi*, Davin Hill, Kivanc Kose, Stratis Ioannidis and Jennifer Dy
+# SmoothHess: ReLU Network Feature Interactions via Stein's Lemma (NeurIPS 2023)
+Max Torop*, Aria Masoomi*, Davin Hill, Kivanc Kose, Stratis Ioannidis and Jennifer Dy
+
+
+### 📘 Abstract
+
+> Several recent methods for interpretability model feature interactions by looking at the Hessian of a neural network. This poses a challenge for ReLU networks, which are piecewise-linear and thus have a zero Hessian almost everywhere. We propose SmoothHess, a method of estimating second-order interactions through Stein's Lemma. In particular, we estimate the Hessian of the network convolved with a Gaussian through an efficient sampling algorithm, requiring only network gradient calls. SmoothHess is applied post-hoc, requires no modifications to the ReLU network architecture, and the extent of smoothing can be controlled explicitly. We provide a non-asymptotic bound on the sample complexity of our estimation procedure. We validate the superior ability of SmoothHess to capture interactions on benchmark datasets and a real-world medical spirometry dataset.
+
 
 ### Code written in Python 3.8.3 using the following packages
 - torch 1.13.1+cu117
@@ -16,6 +22,7 @@ By Max Torop*, Aria Masoomi*, Davin Hill, Kivanc Kose, Stratis Ioannidis and Jen
 - AdvAttackExample.ipynb: Example for Adversarial Attacks Experiment 
 
 ### Citation
+If you use this code, please cite our paper:
 
 ```bibtex
 @article{torop2023smoothhess,
