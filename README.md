@@ -2,7 +2,7 @@
 
 [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/9ef5e965720193681fc8d16372ac4717-Paper-Conference.pdf) [Poster](https://neurips.cc/virtual/2023/poster/70998) [Video](https://neurips.cc/virtual/2023/poster/70998) 
 
-Max Torop,* Aria Masoomi,* Davin Hill, Kivanc Kose, Stratis Ioannidis and Jennifer Dy
+[Max Torop,*](https://maxtorop.github.io/) [Aria Masoomi,*](https://scholar.google.com/citations?user=KXcX8coAAAAJ&hl=en) [Davin Hill,](https://www.davinhill.me/) [Kivanc Kose,](https://kkose.github.io/about/) [Stratis Ioannidis](https://ece.northeastern.edu/fac-ece/ioannidis/) and [Jennifer Dy](https://mllabneu.github.io/)
 
 
 
