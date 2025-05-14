@@ -19,9 +19,9 @@ Max Torop,* Aria Masoomi,* Davin Hill, Kivanc Kose, Stratis Ioannidis and Jennif
 - tqdm 4.55.0
 
 ### Overview
-- FourQuadrant.ipynb : Example for Four Quadrant Dataset Experiment
-- PMSEExample.ipynb: Example for Perturbation Mean-Squared Error Experiment
-- AdvAttackExample.ipynb: Example for Adversarial Attacks Experiment 
+- `FourQuadrant.ipynb` : Example for Four Quadrant Dataset Experiment
+- `PMSEExample.ipynb` : Example for Perturbation Mean-Squared Error Experiment
+- `AdvAttackExample.ipynb` : Example for Adversarial Attacks Experiment 
 
 ### Citation
 If you use this code, please cite our paper:
