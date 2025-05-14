@@ -1,7 +1,10 @@
 # [SmoothHess: ReLU Network Feature Interactions via Stein's Lemma (NeurIPS 2023)](https://openreview.net/pdf?id=dwIeEhbaD0)
 
+[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/9ef5e965720193681fc8d16372ac4717-Paper-Conference.pdf), [Poster](https://neurips.cc/virtual/2023/poster/70998), [Video](https://neurips.cc/virtual/2023/poster/70998) 
 
 Max Torop,* Aria Masoomi,* Davin Hill, Kivanc Kose, Stratis Ioannidis and Jennifer Dy
+
+
 
 
 ### 📘 Abstract
