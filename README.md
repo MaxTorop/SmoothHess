@@ -23,9 +23,9 @@
 
 ### Overview
 
-- [`FourQuadrant.ipynb`](./FourQuadrant.ipynb): Demonstrates the Four Quadrant dataset experiment, highlighting the intuitive control offered by **SmoothHess** compared to the **SoftPlus Hessian**.
-- [`PMSEExample.ipynb`](./PMSEExample.ipynb): Example notebook for the **Perturbation Mean-Squared Error** (PMSE) experiment.
-- [`AdvAttackExample.ipynb`](./AdvAttackExample.ipynb): Example notebook demonstrating **adversarial attacks** and their analysis.
+- [`FourQuadrant.ipynb`](./FourQuadrant.ipynb): Demonstrates the Four Quadrant dataset experiment, highlighting the intuitive control offered by **SmoothHess** compared to the SoftPlus Hessian.
+- [`PMSEExample.ipynb`](./PMSEExample.ipynb): Example notebook for the **Perturbation Mean-Squared Error** (PMSE) experiment, demonstrating the strong ability of SmoothHess to capture the networks local behaviour.
+- [`AdvAttackExample.ipynb`](./AdvAttackExample.ipynb): Example notebook demonstrating how to perform adversarial attacks using SmoothHess.
 
 
 ### Citation
