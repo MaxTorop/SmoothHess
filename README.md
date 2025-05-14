@@ -22,8 +22,8 @@
 - tqdm 4.55.0
 
 ### Overview
-- `FourQuadrant.ipynb` : Example for Four Quadrant Dataset Experiment
-- `PMSEExample.ipynb` : Example for Perturbation Mean-Squared Error Experiment
+- `FourQuadrant.ipynb` : Four Quadrant Dataset Experiment. Illustrates the intuitive control SmoothHess provides vs. the SoftPlus Hessian
+- `PMSEExample.ipynb` : Example for Perturbation Mean-Squared Error Experiment. 
 - `AdvAttackExample.ipynb` : Example for Adversarial Attacks Experiment 
 
 ### Citation
