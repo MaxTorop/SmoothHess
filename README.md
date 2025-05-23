@@ -4,16 +4,24 @@
 
 [Max Torop,*](https://maxtorop.github.io/) [Aria Masoomi,*](https://scholar.google.com/citations?user=KXcX8coAAAAJ&hl=en) [Davin Hill,](https://www.davinhill.me/) [Kivanc Kose,](https://kkose.github.io/about/) [Stratis Ioannidis](https://ece.northeastern.edu/fac-ece/ioannidis/) and [Jennifer Dy](https://mllabneu.github.io/) --> 
 
-## SmoothHess: ReLU Network Feature Interactions via Stein's Lemma  
-Max Torop*<sup>1</sup>&emsp;&emsp;
-Aria Masoomi*<sup>1</sup>&emsp;&emsp;
-Davin Hill<sup>1</sup>&emsp;&emsp;
-Kivanc Kose<sup>2</sup>&emsp;&emsp;
-Stratis Ioannidis<sup>1</sup>&emsp;&emsp;
-Jennifer Dy<sup>1</sup>  
+<div align="center">
 
-<sup>1</sup> Northeastern University&emsp;&emsp;
-<sup>2</sup> Memorial Sloan Kettering Cancer Center
+<h1>SmoothHess: ReLU Network Feature Interactions via Stein's Lemma</h1>
+
+<div>
+    <b>Max Torop*</b><sup>1</sup>&emsp;
+    <b>Aria Masoomi*</b><sup>1</sup>&emsp;
+    Davin Hill<sup>1</sup>&emsp;
+    Kivanc Kose<sup>2</sup>&emsp;
+    Stratis Ioannidis<sup>1</sup>&emsp;
+    Jennifer Dy<sup>1</sup>
+</div>
+<div>
+    <sup>1</sup>Northeastern University&emsp; 
+    <sup>2</sup>Memorial Sloan Kettering Cancer Center
+</div>
+
+</div>
 
 ### 📘 Abstract
 
