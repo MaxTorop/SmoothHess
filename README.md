@@ -5,7 +5,7 @@
 [Max Torop,*](https://maxtorop.github.io/) [Aria Masoomi,*](https://scholar.google.com/citations?user=KXcX8coAAAAJ&hl=en) [Davin Hill,](https://www.davinhill.me/) [Kivanc Kose,](https://kkose.github.io/about/) [Stratis Ioannidis](https://ece.northeastern.edu/fac-ece/ioannidis/) and [Jennifer Dy](https://mllabneu.github.io/) --> 
 
 ## SmoothHess: ReLU Network Feature Interactions via Stein's Lemma  
-Max Torop<sup>1★</sup>  Aria Masoomi<sup>1★</sup>  Davin Hill<sup>1</sup>  Kivanc Kose<sup>2</sup>  Stratis Ioannidis<sup>1</sup>  Jennifer Dy<sup>1</sup>  
+Max Torop<sup>1*</sup>  Aria Masoomi<sup>1*</sup>  Davin Hill<sup>1</sup>  Kivanc Kose<sup>2</sup>  Stratis Ioannidis<sup>1</sup>  Jennifer Dy<sup>1</sup>  
 <sup>1</sup>Northeastern University  <sup>2</sup>Memorial Sloan Kettering Cancer Center  
 
 • [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/9ef5e965720193681fc8d16372ac4717-Paper-Conference.pdf) • [Poster](https://neurips.cc/virtual/2023/poster/70998) • [Video](https://neurips.cc/virtual/2023/poster/70998)
