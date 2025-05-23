@@ -23,7 +23,7 @@
 
 <div>
     <h4 align="center">
-        • <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/9ef5e965720193681fc8d16372ac4717-Paper-Conference.pdf" target='_blank'>[Paper]</a> • 
+        <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/9ef5e965720193681fc8d16372ac4717-Paper-Conference.pdf" target='_blank'>[Paper]</a> • <a href="https://neurips.cc/virtual/2023/poster/70998" target='_blank'>[Poster]</a> • <a href="https://neurips.cc/virtual/2023/poster/70998" target='_blank'>[Video]</a>
     </h4>
 </div>
 
