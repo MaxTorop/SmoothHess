@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<h1>SmoothHess: ReLU Network Feature Interactions via Stein's Lemma</h1>
+<h1>SmoothHess: ReLU Network Feature Interactions via Stein's Lemma (NeurIPS 2023)</h1>
 
 <div>
     <b>Max Torop*</b><sup>1</sup>&emsp;
@@ -19,6 +19,12 @@
 <div>
     <sup>1</sup>Northeastern University&emsp; 
     <sup>2</sup>Memorial Sloan Kettering Cancer Center
+</div>
+
+<div>
+    <h4 align="center">
+        • <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/9ef5e965720193681fc8d16372ac4717-Paper-Conference.pdf" target='_blank'>[Paper]</a> • 
+    </h4>
 </div>
 
 </div>
